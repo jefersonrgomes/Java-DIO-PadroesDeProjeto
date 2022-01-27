@@ -11,4 +11,10 @@ A proposta do projeto, é de apresentar principios de Padrões de Projeto utiliz
 
 #
 
+![image](https://user-images.githubusercontent.com/10172471/151462232-079e3bf0-1b8d-478d-93b4-c6afdc070920.png)
+
+### Desafio proposto pelo especialita [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/").
+### Realizado por [Jeferson Ribeiro Gomes](https://jrgdev.vercel.app/).
+
+#
 
